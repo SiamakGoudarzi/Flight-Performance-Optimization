@@ -1,0 +1,6 @@
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history

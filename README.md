@@ -1,5 +1,5 @@
-# Statistical Analysis: Paper Plane Performance (80g vs. 90g)
-# Statistik-Analyse: Flugleistung von Papierfliegern (80g vs. 90g)
+# Statistical Analysis: Plane Performance (80g vs. 90g)
+# Statistik-Analyse: Flugzeugleistung (80g vs. 90g)
 
 ## 🌎 Language / Sprache
 - [English](#english)
